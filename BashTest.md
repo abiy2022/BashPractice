@@ -1,2 +1,2 @@
 # Demo
-practice exercises
+practice exercises!
